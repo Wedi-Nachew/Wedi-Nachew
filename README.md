@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wedi-Nachew
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Full Stack Javascript development in the odin project 
+- 🌱 I’m currently learning Full Stack.   Javascript development, Specifically in Backend Development 
 - 💞️ I’m looking to collaborate on Web Dev and stuff
 - 📫 Discord: @FAbrha#6661
 
